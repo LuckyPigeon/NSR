@@ -9,6 +9,8 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+import random
+
 BOT_NAME = 'NSR_DFS_Crawler'
 
 SPIDER_MODULES = ['NSR_DFS_Crawler.spiders']
@@ -113,8 +115,12 @@ TELNETCONSOLE_ENABLED = False
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'NSR_DFS_Crawler.pipelines.NsrDfsCrawlerPipeline': 300,
+   'NSR_DFS_Crawler.pipelines.NsrDfsCrawlerPipeline': 300,
 #}
+
+# Message connect to MongoDB
+MONGO_URI = 'mongodb://127.0.0.1:27017/NSMGDB'
+MONGO_DATABASES = 'NSMGDB'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

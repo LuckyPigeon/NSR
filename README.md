@@ -1,4 +1,5 @@
 # NSR (小說故事推薦系統架構) 以天龍八部作為範例
+
 Novel Story Recommendation System
 
 ## NSCrawler (爬蟲)
@@ -14,6 +15,10 @@ Novel Story Recommendation System
 ## NSAPI (API 端)
 
 ## NSBackend (後端)
+
+### Mongo 端
+
+### Postgres 端
 
 ## NSAI (資料分析端)
 

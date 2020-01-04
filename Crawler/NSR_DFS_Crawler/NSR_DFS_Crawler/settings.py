@@ -114,13 +114,13 @@ TELNETCONSOLE_ENABLED = False
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-   'NSR_DFS_Crawler.pipelines.NsrDfsCrawlerPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    'NSR_DFS_Crawler.pipelines.NsrDfsCrawlerPipeline': 300,
+}
 
 # Message connect to MongoDB
-MONGO_URI = 'mongodb://127.0.0.1:27017/NSMGDB'
-MONGO_DATABASES = 'NSMGDB'
+MONGO_URI = 'mongodb://127.0.0.1:27017/NSRDB'
+MONGO_DATABASES = 'NSRDB'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

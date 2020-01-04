@@ -111,6 +111,7 @@ class AuthorSpider(scrapy.Spider):
         item['_id'] = '武俠小說'
         item['URL'] = response.request.url
         item['parent'] = '龍騰世紀'
+        item['collection'] = 'Class'
 
         parentName = item['_id']
 
@@ -126,6 +127,7 @@ class AuthorSpider(scrapy.Spider):
             item['_id'] = CName[index]
             item['URL'] = URL[index]
             item['parent'] = parentName
+            item['collection'] = 'Class'
             yield item
     
         for index in range(len(URL)):
@@ -147,6 +149,7 @@ class AuthorSpider(scrapy.Spider):
             item['_id'] = CName[index]
             item['URL'] = URL[index]
             item['parent'] = response.meta['parent']
+            item['collection'] = 'Class'
             yield item
         
 class ChapterSpider(scrapy.Spider):
@@ -176,9 +179,24 @@ class ChapterSpider(scrapy.Spider):
         CName = [response.xpath('//a[@href="{0}"]/text()'.format(url)).extract_first() for url in URL]
 
         for index in range(len(CName)):
-            item['OName'] = CName[index]
+            item['_id'] = CName[index]
             item['URL'] = URL[index]
+            item['collection'] = 'Object'
             yield item
+
+        for index in range(len(URL)):
+            if URL[index] is not None or URL[index] is not '':
+                print(URL[index])
+                yield Request(url = response.urljoin(URL[index]), callback = self.parseContent, meta = {'parent': CName[index]})
+        
+    def parseContent(self, response):
+        item = ContentItem()
+
+        # 解析出內容
+        item['_id'] = response.meta['parent']
+        item['Content'] = response.xpath('//td[@class="tt2"]/text()').extract()
+        item['collection'] = 'Content'
+        yield item
 
 class ContentSpider(scrapy.Spider):
     name = "ContentSpider"
@@ -199,4 +217,5 @@ class ContentSpider(scrapy.Spider):
 
         # 解析出內容
         item['Content'] = response.xpath('//td[@class="tt2"]/text()').extract()
+        item['collection'] = 'Content'
         yield item

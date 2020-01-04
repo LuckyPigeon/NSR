@@ -17,10 +17,14 @@ class ClassItem(scrapy.Item):
 	_id = scrapy.Field()
 	URL = scrapy.Field()
 	parent = scrapy.Field()
+	collection = scrapy.Field()
 
 class ObjectItem(scrapy.Item):
-	OName = scrapy.Field()
+	_id = scrapy.Field()
 	URL = scrapy.Field()
+	collection = scrapy.Field()
 
 class ContentItem(scrapy.Item):
+	_id = scrapy.Field()
 	Content = scrapy.Field()
+	collection = scrapy.Field()

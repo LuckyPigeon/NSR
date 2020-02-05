@@ -8,6 +8,7 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
+import random
 
 BOT_NAME = 'NSR_BFS_Crawler'
 
@@ -68,7 +69,7 @@ print('USER_AGENT: ' + USER_AGENT)
 ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-DOMAIN_DEPTHS = {'www.bwsk.net': 4}
+DOMAIN_DEPTHS = {'zh.wikipedia.org': 1, 'www.books.com.tw': 1}
 #CONCURRENT_REQUESTS = 32
 
 # Configure a delay for requests for the same website (default: 0)
@@ -111,9 +112,13 @@ TELNETCONSOLE_ENABLED = False
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'NSR_BFS_Crawler.pipelines.NsrBfsCrawlerPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'NSR_BFS_Crawler.pipelines.NsrBfsCrawlerPipeline': 300,
+}
+
+# Message connect to MongoDB
+MONGO_URI = 'mongodb://127.0.0.1:27017/NSRDB'
+MONGO_DATABASES = 'NSRDB'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

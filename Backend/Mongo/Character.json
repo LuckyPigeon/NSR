@@ -1,0 +1,289 @@
+{"_id":{"$oid":"5e3acfb38105db21fec44c3e"},"collection":"Character","parent":"主要人物","child":"三大男主角"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c3f"},"collection":"Character","parent":"三大男主角","child":"喬峰—丐幫幫主，武功蓋世，武林素稱「北喬峰」，虛竹與段譽之義兄。為蕭遠山之子，因故受喬三槐夫婦收養而姓喬，後被揭發為契丹後裔而受漢地武林中人唾棄，在確知自己契丹身分後恢復原名蕭峰。在相救遼國皇帝耶律洪基以後被冊封為南院大王，後又加封為宋王、平南大元帥；在阻止遼入侵宋後，自盡於雁門關。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c40"},"collection":"Character","parent":"三大男主角","child":"虛竹—原為少林寺弟子，後成為逍遙派掌門，且集逍遙派三大高手功力於一身，為喬峰義弟，段譽義兄（排第二）。少室山一戰得知父為玄慈大師，母為葉二娘。經歷一連串奇遇後娶西夏銀川公主李清露，成為西夏駙馬。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c41"},"collection":"Character","parent":"三大男主角","child":"段譽—大理國「鎮南王」段正淳世子，母為刀白鳳，實生父為四大惡人中的段延慶。後繼位大理國皇帝，登基時年號日新。為喬峰、虛竹義弟（排第三）。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c42"},"collection":"Character","parent":"主要人物","child":"諸位女主角"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c43"},"collection":"Character","parent":"諸位女主角","child":"阿朱—段正淳與情婦阮星竹之女，善易容，原為慕容復侍女，後與喬峰相愛，為阻止喬峰與段正淳衝突，甘願捨身為喬峰失手打死。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c44"},"collection":"Character","parent":"諸位女主角","child":"阿紫—阿朱的親妹妹，原拜星宿派丁春秋門下，為人刁蠻陰戾、自私刻薄。暗戀喬峰，卻始終不得。喬峰殉國自盡後，阿紫也跟著跳下雁門關懸崖為其殉情。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c45"},"collection":"Character","parent":"諸位女主角","child":"王語嫣—段正淳與情婦李青萝之女，表哥為慕容復，也是逍遙派無崖子之外孫女。絕世美女，單戀表哥，後被表哥棄之不顧，受段譽感動而與之相戀。金庸新改版的《天龍八部》結局還是選擇陪伴在精神失常的慕容復身邊。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c46"},"collection":"Character","parent":"諸位女主角","child":"木婉清—段正淳與情婦秦紅棉之女，初與段譽相戀。在被告知自己與段譽是同父異母的兄妹後，悲憤離去。後在西夏與段譽重逢。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c47"},"collection":"Character","parent":"諸位女主角","child":"鍾靈—段正淳與情婦甘寶寶之女，養有一隻閃電貂，單戀段譽。在少室山下喬峰故居與段譽重逢。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c48"},"collection":"Character","parent":"主要人物","child":"大理國"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c49"},"collection":"Character","parent":"大理國","child":"段正明─大理國皇帝，段正淳之兄，精通家傳武學「一陽指」，傳位於段譽後避位為僧，法号本塵。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c4a"},"collection":"Character","parent":"大理國","child":"段正淳—大理國鎮南王，性情風流，早年四處拈花惹草，結果私生的女兒成了兒子段譽的情人，最後為死去的情婦殉情而死。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c4b"},"collection":"Character","parent":"大理國","child":"刀白鳳—大理國鎮南王妃。段正淳的元配、段譽的母親。最後隨段正淳自盡。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c4c"},"collection":"Character","parent":"大理國","child":"大理眾臣"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c4d"},"collection":"Character","parent":"大理眾臣","child":"四大護衛"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c4e"},"collection":"Character","parent":"三司","child":"范驊 (司馬)、巴天石 (司空)、華赫艮 (司徒)"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c4f"},"collection":"Character","parent":"大理眾臣","child":"四大護衛"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c50"},"collection":"Character","parent":"三司","child":"范驊 (司馬)、巴天石 (司空)、華赫艮 (司徒)"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c51"},"collection":"Character","parent":"大理眾臣","child":"四大護衛"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c52"},"collection":"Character","parent":"四大護衛","child":"褚萬里(死於段延慶之手)、古篤誠(紅沙灘一戰時被岳老三打入江中)、傅思歸、朱丹臣"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c53"},"collection":"Character","parent":"主要人物","child":"段正淳情婦"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c54"},"collection":"Character","parent":"段正淳情婦","child":"秦紅棉 ─ 外號「修羅刀」，曾自稱「幽谷客」。段正淳的情婦之一，甘寶寶之師姊，兩人交好。兩人生有木婉清，她也是木婉清的母親和師父，甘寶寶的師姊。使用一對喂毒的雙刀修羅刀，暗器是毒藥袖箭。後被慕容復所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c55"},"collection":"Character","parent":"段正淳情婦","child":"甘寶寶 ─ 萬劫谷谷主鍾萬仇之妻，秦紅棉之師姊，二人交好。未嫁前為段正淳之情婦，兩人生有鍾靈。後被慕容復所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c56"},"collection":"Character","parent":"段正淳情婦","child":"阮星竹 ─ 段正淳情婦之一，兩人生有阿朱、阿紫。後被慕容復所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c57"},"collection":"Character","parent":"段正淳情婦","child":"李青萝 ─ 未嫁前為段正淳情婦之一，與段正淳生下王語嫣一女。為逍遙派掌門人無崖子與李秋水所生。後嫁姑蘇王家。一生痛恨男人，世上男子未經批准不可踏進王府，跟段譽首次見面曾揚言要砍他雙腳作肥料。後來在姑蘇王府曼陀山莊被外甥慕容復所殺，死前透露一直盼望跟段正淳重逢，自願死於慕容復劍下。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c58"},"collection":"Character","parent":"段正淳情婦","child":"康敏—丐幫副幫主馬大元之妻，未嫁前為段正淳情婦之一。外表溫順，內裏卻是個為達目的，不惜出賣身體的狠角色。後被阿紫毀容，憂憤而死。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c59"},"collection":"Character","parent":"主要人物","child":"姑蘇慕容氏"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c5a"},"collection":"Character","parent":"姑蘇慕容氏","child":"慕容復—與喬峰齊名「北喬峰，南慕容」中的「南慕容」，十六國前燕王孫，日夜圖謀復國，機關算盡，不果，終至精神失常。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c5b"},"collection":"Character","parent":"姑蘇慕容氏","child":"慕容博─慕容復之父，與兒子同欲圖謀興復大業，城府極深。當年雁門關一役因其亂報謊言而起，後詐死隱藏少林寺中偷閱少林絕技。後皈依佛門。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c5c"},"collection":"Character","parent":"姑蘇慕容氏","child":"四大家臣"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c5d"},"collection":"Character","parent":"四大家臣","child":"「一陣風」風波惡。在慕容復殺死包不同後離去。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c5e"},"collection":"Character","parent":"四大家臣","child":"「一陣風」風波惡。在慕容復殺死包不同後離去。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c5f"},"collection":"Character","parent":"四大家臣","child":"「一陣風」風波惡。在慕容復殺死包不同後離去。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c60"},"collection":"Character","parent":"四大家臣","child":"「一陣風」風波惡。在慕容復殺死包不同後離去。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c61"},"collection":"Character","parent":"主要人物","child":"吐蕃國"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c62"},"collection":"Character","parent":"吐蕃國","child":"鳩摩智—吐蕃國師，大雪山大輪寺僧人。大輪明王，本身會火焰刀，用小無相功運使少林七十二絕技，後強練少林寺的易筋經，最後走火入魔。在西夏公主招驸馬時和慕容復打斗後，落入枯井之中，被段譽北冥神功吸光内力，逃过一劫，保住了性命。失去功力後，自覺惡孽深重，恍然大悟，後成為一代高僧。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c63"},"collection":"Character","parent":"主要人物","child":"遼國"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c64"},"collection":"Character","parent":"遼國","child":"蕭遠山—蕭峰之父，為了報殺妻之仇隱居少林寺30年，後與慕容博同皈依佛門。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c65"},"collection":"Character","parent":"主要人物","child":"逍遙派"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c66"},"collection":"Character","parent":"逍遙派","child":"無崖子—原逍遙派掌門，蘇星河，丁春秋的師父，傳七十年北冥功力與掌門之位於虛竹後衰老死去。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c67"},"collection":"Character","parent":"逍遙派","child":"天山童姥—無崖子的師姊。天山靈鷲宫主人。與李秋水打鬥後，雙方氣衰力竭，相繼死去。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c68"},"collection":"Character","parent":"逍遙派","child":"李秋水—無崖子與天山童姥的師妹，因與師姐童姥同愛無崖子而與之结仇。也是身为西夏皇太妃。與天山童姥打鬥後，雙方氣衰力竭，相繼死去。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c69"},"collection":"Character","parent":"逍遙派","child":"蘇星河—無崖子大徒兒，外號聾啞老人及聰辯先生，自創聾啞門，收徒有薛慕華等“函谷八友”。被丁春秋下三笑逍遙散而死。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c6a"},"collection":"Character","parent":"逍遙派","child":"丁春秋—原為逍遙派弟子，後背叛師門自立星宿派掌門，外號「星宿老仙」。最後被虛竹下生死符，留在少林寺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c6b"},"collection":"Character","parent":"主要人物","child":"四大惡人"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c6c"},"collection":"Character","parent":"四大惡人","child":"「惡貫滿盈」段延慶：四大惡人排行老大。原是大理國延慶太子。因刀白鳳暗示而知道自己有段譽這兒子。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c6d"},"collection":"Character","parent":"四大惡人","child":"「無惡不作」葉二娘：四大惡人排行老二。虚竹的生母，後隨玄慈大師死去。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c6e"},"collection":"Character","parent":"四大惡人","child":"「凶神惡煞」岳老三：四大惡人排行老三，但欲當老二。人稱「南海鱷神」。因救段譽而為段延慶所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c6f"},"collection":"Character","parent":"四大惡人","child":"「窮凶極惡」雲中鶴：四大惡人排行老四。後被華赫艮趁其中悲酥清風昏迷之時一刀砍死。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c70"},"collection":"Character","parent":"主要人物","child":"聚賢莊"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c71"},"collection":"Character","parent":"聚賢莊","child":"游坦之—聚賢莊游氏雙雄（游驥、游駒）子侄；因報仇而遇上阿紫，頭上被烙以鐵罩，稱為鐵頭人、鐵丑。 機緣下學會了易筋經，並改名為莊聚賢，被全冠清捧為丐幫幫主。暗戀阿紫，無條件為其付出，甚至為救阿紫失明，自願挖出雙眼醫治，最後跟著阿紫跳下懸崖殉情。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c72"},"collection":"Character","parent":"次要人物","child":"萬劫谷"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c73"},"collection":"Character","parent":"萬劫谷","child":"鍾萬仇：《修訂版》中號「馬王神」，《新修版》中號「見人就殺」。甘寶寶之夫。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c74"},"collection":"Character","parent":"萬劫谷","child":"甘寶寶：號「俏夜叉」、萬劫谷主鍾萬仇之妻，未嫁前為段正淳之情婦，兩人生有鍾靈。後被慕容復所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c75"},"collection":"Character","parent":"萬劫谷","child":"進喜兒：鍾家僕人，被岳老三所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c76"},"collection":"Character","parent":"萬劫谷","child":"來福兒：鍾家僕人，被蘇州王家所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c77"},"collection":"Character","parent":"次要人物","child":"伏牛派"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c78"},"collection":"Character","parent":"伏牛派","child":"柯百歲：成名技「天靈千裂」 ，被「以彼之道、還施彼身」所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c79"},"collection":"Character","parent":"伏牛派","child":"「金算盤」崔百泉：年輕時得罪姑蘇慕容博，因此遠至大理避難，在王府中偽裝成帳房師爺的手下「霍先生」。整日醉酒賭博，是段譽熱衷棋弈時的對手。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c7a"},"collection":"Character","parent":"伏牛派","child":"「追魂鞭」過彥之：崔百泉的師侄，因師父被害，遠赴大理尋師叔共報師仇。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c7b"},"collection":"Character","parent":"次要人物","child":"無量劍"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c7c"},"collection":"Character","parent":"無量劍","child":"左子穆（無量劍東宗掌門，後歸入靈鷲宮）\n為無量劍西宗掌門辛雙清的師兄，曾率東宗一方數度與無量劍西宗一方論劍定入居劍湖宮。後和辛雙清帶領無量劍東西宗一同歸入天山縹緲峰靈鷲宮旗下的「三十六洞洞主、七十二島島主」，無量劍改名為無量洞，由辛雙清作為洞主，左子穆為副洞主。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c7d"},"collection":"Character","parent":"無量劍","child":"辛雙清（無量劍西宗掌門，後歸入靈鷲宮）\n無量劍西宗掌門，道姑一名，無量劍東宗掌門左子穆的師妺。每年一度率西宗一方數度與無量劍東宗論劍定入居劍湖宮。後和左子穆帶領無量劍東西宗一同歸入天山縹緲峰靈鷲宮旗下的「三十六洞洞主、七十二島島主」。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c7e"},"collection":"Character","parent":"無量劍","child":"龔光傑（無量劍東宗）【接觸神農幫所施毒之信而死】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c7f"},"collection":"Character","parent":"無量劍","child":"褚師弟（無量劍西宗）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c80"},"collection":"Character","parent":"無量劍","child":"容子矩（無量劍東宗）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c81"},"collection":"Character","parent":"無量劍","child":"干光豪（無量劍東宗）【被木婉清所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c82"},"collection":"Character","parent":"無量劍","child":"葛光佩（無量劍西宗）【被木婉清所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c83"},"collection":"Character","parent":"無量劍","child":"郁光標（無量劍東宗）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c84"},"collection":"Character","parent":"無量劍","child":"錢光勝（無量劍東宗）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c85"},"collection":"Character","parent":"無量劍","child":"唐光雄（無量劍派弟子）【被姑蘇王家花肥房嚴媽媽所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c86"},"collection":"Character","parent":"次要人物","child":"神農幫"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c87"},"collection":"Character","parent":"神農幫","child":"司空玄（神農幫幫主）【自殺跳瀾滄江而死】\n"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c88"},"collection":"Character","parent":"次要人物","child":"大理天龍寺"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c89"},"collection":"Character","parent":"大理天龍寺","child":"枯榮大師（本因等人之師叔，段延慶親叔父）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c8a"},"collection":"Character","parent":"大理天龍寺","child":"本因大師（方丈，段正明之叔父）：最大絕學是六脈神劍中的「商陽劍」"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c8b"},"collection":"Character","parent":"大理天龍寺","child":"本觀（本因的師兄）：最大絕學是六脈神劍中的「中衝劍」"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c8c"},"collection":"Character","parent":"大理天龍寺","child":"本相（本因的師兄）：最大絕學是六脈神劍中的「少衝劍」"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c8d"},"collection":"Character","parent":"大理天龍寺","child":"本參（本因的師弟）：最大絕學是六脈神劍中的「少澤劍」"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c8e"},"collection":"Character","parent":"大理天龍寺","child":"本塵（保定帝 段正明）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c8f"},"collection":"Character","parent":"次要人物","child":"拈花寺"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c90"},"collection":"Character","parent":"拈花寺","child":"黃眉僧（師承福建蒲田達摩下院）：能使「金剛指」。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c91"},"collection":"Character","parent":"拈花寺","child":"破嗔（黃眉僧二弟子）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c92"},"collection":"Character","parent":"拈花寺","child":"破痴（黃眉僧弟子）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c93"},"collection":"Character","parent":"次要人物","child":"四大惡人"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c94"},"collection":"Character","parent":"四大惡人","child":"譚青：號「追魂杖」，段延慶的弟子。被蕭峰所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c95"},"collection":"Character","parent":"四大惡人","child":"孫三霸：號「小煞神」，岳老三之徒。被木婉清所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c96"},"collection":"Character","parent":"次要人物","child":"少林寺"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c97"},"collection":"Character","parent":"少林寺","child":"靈門大師\n玄悲等玄字輩僧人之師父"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c98"},"collection":"Character","parent":"少林寺","child":"掃地僧\n少林藏經閣的一名服事僧，佛法修為似在玄字輩僧人之上，武功亦過於常人，為當世天下第一。曾將慕容博及蕭遠山打成“假死”（龜息）再給予重新救活，治療他們因多年盜習少林武功所造成的內傷並化解仇恨，感化兩人皈依佛門。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c99"},"collection":"Character","parent":"少林寺","child":"玄慈（方丈）\n少林寺方丈，是高大瘦削的老僧，說話威嚴，為貫穿通篇故事的“帶頭大哥”。與五台山清凉寺方丈神山上人并稱“降龍”“伏虎”兩羅漢。後來葉二娘爹爹生了重病，玄慈方丈前來為他醫治，救了葉二娘爹爹的命，葉二娘對玄慈既感激，又仰慕，貧家女子無以為報，便以身子相許，成為後來虛竹的父親。在《新修版》中曾化名「遲老先生」與蕭峰對掌，查察他是否殺死玄苦之凶手。最終玄慈與葉二娘一同自殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c9a"},"collection":"Character","parent":"少林寺","child":"玄悲\n當年查探慕容博下落不果，往大理支援段氏時，被慕容博所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c9b"},"collection":"Character","parent":"少林寺","child":"玄慚"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c9c"},"collection":"Character","parent":"少林寺","child":"玄生\n曾化名「孫老先生」與蕭峯對掌，查察他是否殺死玄苦之凶手。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c9d"},"collection":"Character","parent":"少林寺","child":"玄止\n曾化名「褚老先生」與蕭峯對掌，查察他是否殺死玄苦之凶手。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c9e"},"collection":"Character","parent":"少林寺","child":"玄因\n曾化名「金老先生」與蕭峯對掌，查察他是否殺死玄苦之凶手。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44c9f"},"collection":"Character","parent":"少林寺","child":"玄渡\n善待寺中後輩，深受小僧愛戴。擅拈花指。曾化名「杜老先生」與蕭峯對掌，查察他是否殺死玄苦之凶手。吐蕃大雪山大輪寺「大輪明王」鳩摩智大鬥少林寺時，玄渡挺身而出與鳩摩智比拼「拈花指」，最後不敵受傷。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ca0"},"collection":"Character","parent":"少林寺","child":"玄鳴\n救援蕭峰時，被契丹武士所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ca1"},"collection":"Character","parent":"少林寺","child":"玄石\n曾跟蹤蕭峰，查察他是否殺死徐長老、趙錢孫等人之凶手。後救援蕭峰時，被契丹武士所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ca2"},"collection":"Character","parent":"少林寺","child":"玄愧"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ca3"},"collection":"Character","parent":"少林寺","child":"玄念"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ca4"},"collection":"Character","parent":"少林寺","child":"玄淨"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ca5"},"collection":"Character","parent":"少林寺","child":"玄難（達摩院首座）\n曾參與聚賢莊大戰，被丁春秋下三笑逍遙散所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ca6"},"collection":"Character","parent":"少林寺","child":"玄寂（戒律院首座）\n曾參與聚賢莊大戰，最大絕學是少林七十二絕技之一「一拍兩散」，最後接任少林寺方丈。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ca7"},"collection":"Character","parent":"少林寺","child":"玄痛【悟道圓寂】\n為游坦之冰蠶毒掌所傷，在苟讀啟發下，悟道圓寂"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ca8"},"collection":"Character","parent":"少林寺","child":"玄澄\n被譽為少林寺二百年來武功第一的僧人，然而未能精進佛法修為強練少林絕技，導致筋脈俱斷，但此後大徹大悟、潛心佛學，成為一代高僧。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ca9"},"collection":"Character","parent":"少林寺","child":"玄滅"}
+{"_id":{"$oid":"5e3acfb38105db21fec44caa"},"collection":"Character","parent":"少林寺","child":"玄苦\n蕭峰之師，教授「降魔掌」，後被蕭遠山所殺。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cab"},"collection":"Character","parent":"少林寺","child":"慧真"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cac"},"collection":"Character","parent":"少林寺","child":"慧觀"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cad"},"collection":"Character","parent":"少林寺","child":"慧淨（抓冰蠶者）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cae"},"collection":"Character","parent":"少林寺","child":"慧方"}
+{"_id":{"$oid":"5e3acfb38105db21fec44caf"},"collection":"Character","parent":"少林寺","child":"慧鏡"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cb0"},"collection":"Character","parent":"少林寺","child":"慧輪（虛竹之師）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cb1"},"collection":"Character","parent":"少林寺","child":"虚清"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cb2"},"collection":"Character","parent":"少林寺","child":"虚湛"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cb3"},"collection":"Character","parent":"少林寺","child":"虚淵"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cb4"},"collection":"Character","parent":"少林寺","child":"五葉大師（身戒寺方丈）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cb5"},"collection":"Character","parent":"少林寺","child":"青松（小沙彌）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cb6"},"collection":"Character","parent":"少林寺","child":"緣根（管理少林寺瑣碎事務）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cb7"},"collection":"Character","parent":"次要人物","child":"姑蘇慕容/王家"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cb8"},"collection":"Character","parent":"姑蘇慕容/王家","child":"阿碧（姑蘇慕容丫鬟）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cb9"},"collection":"Character","parent":"姑蘇慕容/王家","child":"李青蘿（姑蘇王家夫人。無崖子、李秋水的女兒，但自小由丁春秋所撫養。）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cba"},"collection":"Character","parent":"姑蘇慕容/王家","child":"瑞婆婆（蘇州王家）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cbb"},"collection":"Character","parent":"姑蘇慕容/王家","child":"平婆婆（蘇州王家）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cbc"},"collection":"Character","parent":"姑蘇慕容/王家","child":"嚴媽媽（姑蘇王家花肥房）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cbd"},"collection":"Character","parent":"姑蘇慕容/王家","child":"幽草（姑蘇王家丫鬟）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cbe"},"collection":"Character","parent":"姑蘇慕容/王家","child":"小翠（姑蘇王家丫鬟）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cbf"},"collection":"Character","parent":"姑蘇慕容/王家","child":"小蘭（姑蘇王家丫鬟）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cc0"},"collection":"Character","parent":"姑蘇慕容/王家","child":"小詩（姑蘇王家丫鬟）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cc1"},"collection":"Character","parent":"姑蘇慕容/王家","child":"小茗（姑蘇王家丫鬟）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cc2"},"collection":"Character","parent":"姑蘇慕容/王家","child":"小茶（姑蘇王家丫鬟）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cc3"},"collection":"Character","parent":"姑蘇慕容/王家","child":"賈老者（蘇州王家）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cc4"},"collection":"Character","parent":"姑蘇慕容/王家","child":"老顧（姑蘇慕容廚師）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cc5"},"collection":"Character","parent":"姑蘇慕容/王家","child":"姚伯當（雲州秦家寨寨主）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cc6"},"collection":"Character","parent":"姑蘇慕容/王家","child":"秦伯起（雲州秦家寨前寨主兒子）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cc7"},"collection":"Character","parent":"姑蘇慕容/王家","child":"諸保昆（山東蓬萊派）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cc8"},"collection":"Character","parent":"姑蘇慕容/王家","child":"海風子（山東蓬萊派第七代掌門人）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cc9"},"collection":"Character","parent":"姑蘇慕容/王家","child":"都靈子（山東蓬萊派）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cca"},"collection":"Character","parent":"姑蘇慕容/王家","child":"司馬衛（四川青城山青城派，司馬林之父）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ccb"},"collection":"Character","parent":"姑蘇慕容/王家","child":"司馬林（四川青城山青城派）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ccc"},"collection":"Character","parent":"姑蘇慕容/王家","child":"姜老者（四川青城山青城派）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ccd"},"collection":"Character","parent":"姑蘇慕容/王家","child":"孟老者（四川青城山青城派）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cce"},"collection":"Character","parent":"姑蘇慕容/王家","child":"包不靚（包不同之女）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ccf"},"collection":"Character","parent":"次要人物","child":"丐幫"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cd0"},"collection":"Character","parent":"丐幫","child":"馬大元（丐幫副幫主）【被康敏和白世鏡合謀所害死】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cd1"},"collection":"Character","parent":"丐幫","child":"汪劍通（前丐幫幫主「劍髯」）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cd2"},"collection":"Character","parent":"汪劍通（前丐幫幫主「劍髯」）","child":"丐幫前任幫主，故事開始前已逝世。深得丐幫二大神功「打狗棒法」和「降龍十八掌」的真傳，當時他武功蓋世，是江湖上第一流的頂尖高手之一。曾被契丹五名高手設伏捉走，囚於祁連山黑風洞中，威逼丐幫降服。汪幫主身材矮胖，四大長老之一宋長老與之有三分相似，便喬裝汪幫主的模樣，甘願代死，使汪幫主得以脫險，最後蕭峰從黑風洞中救宋長老回來。\n全盛時期的汪劍通，曾經跟隨“带头大哥”（少林派方丈「伏虎罗汉」玄慈）和十九名宋朝武林高手參與「雁門關大戰」\n汪劍通把丐幫幫主之物「打狗棒」和幫主之位傳於喬峰。乔峰二十五岁生日，汪剑通赠扇题诗：“朔雪飘飘开雁门，平沙历乱卷蓬根；功名耻计擒生数，直斩楼兰报国恩。”扇上的壮士出塞杀敌图，为丐帮退隱前輩徐冲霄所作。汪劍通在死前留下了一封信，記載了喬峰的身世。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cd3"},"collection":"Character","parent":"丐幫","child":"蔣舵主（丐幫大義分舵主）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cd4"},"collection":"Character","parent":"丐幫","child":"謝副舵主（丐幫大義分舵副舵主，為西夏一品堂所殺）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cd5"},"collection":"Character","parent":"丐幫","child":"呂章（在《新修版》中加入的丐幫傳功長老）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cd6"},"collection":"Character","parent":"丐幫","child":"奚山河（丐幫四老之一）【在聚賢莊被蕭峰所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cd7"},"collection":"Character","parent":"丐幫","child":"吳長風（丐幫四老之一)"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cd8"},"collection":"Character","parent":"丐幫","child":"宋長老（丐幫四老之一）【被遊坦之所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cd9"},"collection":"Character","parent":"丐幫","child":"陳孤雁（『長臂叟』丐幫四老之一 湖北阮家）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cda"},"collection":"Character","parent":"丐幫","child":"白世鏡（丐幫執法長老）【被丐幫呂章等人處決】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cdb"},"collection":"Character","parent":"白世鏡（丐幫執法長老）【被丐幫呂章等人處決】","child":"白世鏡是丐幫的執法長老，最大絕學是「纒絲擒拿手」，白世鏡向来义正辞严，铁面无私。白世鏡老婆死去二十年後被康敏以美色引誘到着兒，把持不住，與康敏合謀害死副幫主馬大元（康敏為馬大元妻子）。以四大長老「奚宋陳吳」和大智分舵舵主全冠清為首的叛變，白世鏡和傳功長老呂章與手下一起被囚禁於太湖的小船上。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cdc"},"collection":"Character","parent":"丐幫","child":"全冠清（丐幫大智分舵主『十方秀才』）(後被吳長老等人亂刀分屍)"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cdd"},"collection":"Character","parent":"丐幫","child":"張全祥（丐幫七袋弟子）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cde"},"collection":"Character","parent":"丐幫","child":"方舵主（丐幫分舵主）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cdf"},"collection":"Character","parent":"丐幫","child":"李春來（丐幫弟子 向白世鏡假傳號令者）【自殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ce0"},"collection":"Character","parent":"丐幫","child":"劉竹莊（丐幫弟子 向呂章假傳號令者）【自殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ce1"},"collection":"Character","parent":"丐幫","child":"徐冲霄（丐幫退隱前輩）【被白世鏡所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ce2"},"collection":"Character","parent":"次要人物","child":"杏子林事件"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ce3"},"collection":"Character","parent":"杏子林事件","child":"譚公（太行山沖霄洞）【自殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ce4"},"collection":"Character","parent":"杏子林事件","child":"譚婆（太行山沖霄洞「小娟」「阿慧」）【被蕭遠山所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ce5"},"collection":"Character","parent":"杏子林事件","child":"趙錢孫 【被蕭遠山所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ce6"},"collection":"Character","parent":"杏子林事件","child":"智光大師（天台山「萬家生佛」）【自行吞藥自盡 後被蕭遠山在太陽穴指擊洩恨】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ce7"},"collection":"Character","parent":"杏子林事件","child":"單正（『鐵面判官』）【被蕭遠山所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ce8"},"collection":"Character","parent":"杏子林事件","child":"單伯山（單正的大兒子 泰山五雄之一）【被蕭峰所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ce9"},"collection":"Character","parent":"杏子林事件","child":"單仲山（單正的二兒子 泰山五雄之一）【被蕭峰所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cea"},"collection":"Character","parent":"杏子林事件","child":"單叔山（單正的三兒子 泰山五雄之一）【被蕭遠山所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ceb"},"collection":"Character","parent":"杏子林事件","child":"單季山（單正的四兒子 泰山五雄之一）【被蕭遠山所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cec"},"collection":"Character","parent":"杏子林事件","child":"單小山（單正的五兒子 泰山五雄之一）【被蕭遠山所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44ced"},"collection":"Character","parent":"次要人物","child":"聚賢莊"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cee"},"collection":"Character","parent":"聚賢莊","child":"祁老六（關西『快刀祁六』）【被蕭峰、玄難、玄寂所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cef"},"collection":"Character","parent":"聚賢莊","child":"向望海（湘東）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cf0"},"collection":"Character","parent":"聚賢莊","child":"鮑千靈（『沒本錢』）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cf1"},"collection":"Character","parent":"聚賢莊","child":"游驥（聚賢庄游氏雙雄之一）【自殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cf2"},"collection":"Character","parent":"聚賢莊","child":"游駒（聚賢庄游氏雙雄之二）【自殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cf3"},"collection":"Character","parent":"次要人物","child":"函谷八友"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cf4"},"collection":"Character","parent":"函谷八友","child":"「琴顛」康廣陵"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cf5"},"collection":"Character","parent":"函谷八友","child":"「棋魔」范百齡"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cf6"},"collection":"Character","parent":"函谷八友","child":"「書獃」苟讀"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cf7"},"collection":"Character","parent":"函谷八友","child":"「畫狂」吳領軍"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cf8"},"collection":"Character","parent":"函谷八友","child":"「神醫」薛慕華"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cf9"},"collection":"Character","parent":"函谷八友","child":"「巧匠」馮阿三"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cfa"},"collection":"Character","parent":"函谷八友","child":"「花癡」石清風"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cfb"},"collection":"Character","parent":"函谷八友","child":"「戲迷」李傀儡"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cfc"},"collection":"Character","parent":"次要人物","child":"縹緲峰靈鷲宮"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cfd"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"創立人為天山童姥（童飘云或者巫行云）。\n"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cfe"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"靈鷲宮門下弟子稱宮主為「姥姥」，而因天山童姥每三十年返老還童一次如六歲女童，而又稱她為「童姥」。\n"}
+{"_id":{"$oid":"5e3acfb38105db21fec44cff"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"靈鷲宮位於「天山縹緲峰」上，因地形位於高山之上雲霧縹緲而得此名。此峰分為九天九部，分別是昊天、陽天、赤天、朱天、成天、幽天、玄天、鸞天和鈞天。共掌管九天九部婢女，三十六洞洞主，七十二島島主。\n"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d00"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"靈鷲宮宮內弟子多為女性，原為收留遭人遺棄的女嬰以及無依無靠的可憐女子，之後亦收留被男性始亂終棄的女子為其門下，亦正亦邪的立場也使得該門派成為在金庸筆下討論度頗高的一個門派。\n"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d01"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"符聖使（縹緲峰靈鷲宮聖使）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d02"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"余婆（縹緲峰靈鷲宮昊天部首領）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d03"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"石嫂（縹緲峰靈鷲宮朱天部首領）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d04"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"符敏儀（縹緲峰靈鷲宮陽天部首領『針神』）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d05"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"程青霜（縹緲峰靈鷲宮鈞天部副首領）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d06"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"梅劍（天山童姥貼身使婢之一）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d07"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"蘭劍（天山童姥貼身使婢之二）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d08"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"竹劍（天山童姥貼身使婢之三）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d09"},"collection":"Character","parent":"縹緲峰靈鷲宮","child":"菊劍（天山童姥貼身使婢之四）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d0a"},"collection":"Character","parent":"次要人物","child":"三十六洞洞主、七十二島島主"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d0b"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"桑土公（川西碧磷洞）【被虛竹、天山童姥壓死】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d0c"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"玄黃子（藏邊虯龍洞）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d0d"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"章達夫（北海玄冥島島主）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d0e"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"端木元（海南島五指山赤焰洞）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d0f"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"黎夫人（南海椰花島）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d10"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"烏老大（島主）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d11"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"不平道人（『蛟王』）【被虛竹以松球所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d12"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"崔綠華『芙蓉仙子』"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d13"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"卓不凡（『劍神』一字慧劍門）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d14"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"欽島主（海馬島）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d15"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"霍洞主（紫巖洞）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d16"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"司馬島主（受蟒鞭責打縱橫交錯九條）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d17"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"于洞主（三枚大鐵釘釘背）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d18"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"安洞主（口吃者）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d19"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"九翼道人（雷電門　西夏一品堂『雷動于九天之上』）【死於飄緲峰下】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d1a"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"區島主（劍魚島）【被卓不凡所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d1b"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"霍洞主（洞主）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d1c"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"雲島主（島主）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d1d"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"哈大霸（鐵鰲島島主）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d1e"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"珠崖大怪（珠崖雙怪之一）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d1f"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"珠崖二怪（珠崖雙怪之一）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d20"},"collection":"Character","parent":"三十六洞洞主、七十二島島主","child":"费玉清（岛主）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d21"},"collection":"Character","parent":"次要人物","child":"星宿派"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d22"},"collection":"Character","parent":"星宿派","child":"阿紫（星宿派大師姊）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d23"},"collection":"Character","parent":"星宿派","child":"摘星子（星宿派大師哥）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d24"},"collection":"Character","parent":"星宿派","child":"摩雲子（星宿派二師哥）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d25"},"collection":"Character","parent":"星宿派","child":"追風子（星宿派三師哥）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d26"},"collection":"Character","parent":"星宿派","child":"出塵子（星宿派八師哥）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d27"},"collection":"Character","parent":"星宿派","child":"天狼子"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d28"},"collection":"Character","parent":"次要人物","child":"遼"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d29"},"collection":"Character","parent":"遼","child":"耶律洪基（「耶律基」遼國皇帝）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d2a"},"collection":"Character","parent":"遼","child":"室里（遼國隊長）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d2b"},"collection":"Character","parent":"遼","child":"耶律涅魯古（遼國南院大王　爵封楚王）【被蕭峰所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d2c"},"collection":"Character","parent":"遼","child":"耶律重元（遼國皇太叔　天下兵馬大元帥）【自殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d2d"},"collection":"Character","parent":"遼","child":"耶律莫哥（遼國南院樞密使）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d2e"},"collection":"Character","parent":"次要人物","child":"西夏"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d2f"},"collection":"Character","parent":"西夏","child":"夢姑（西夏銀川公主）\n真實身分為西夏銀川公主李清露，是李秋水的孫女，王語嫣的表妹。\n天山童姥為了躲避李秋水的追殺，而躲在西夏冰窖裡，為了使虛竹可以破戒習得逍遙派招式，但虛竹卻不吃葷食，只能抱來夢姑讓虛竹破淫，而夢姑的意思是指「只能在夢裡相見」，虛竹曾經問過天山童佬是否可以再見到夢姑，爾後隨著天山童姥與李秋水的惡鬥而相繼去世，就再也沒見過夢姑了。\n公主以擂台選婿為名，實則是找尋冰窖裡的夢中情郎。\n傳至逍遙派的武功，師承是李秋水。書中並沒說到她的武功招式，但她可以牽著虛竹敘話而眾人卻不知，更在雁門關之戰時與虛竹解救喬峰。"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d30"},"collection":"Character","parent":"西夏","child":"金二哥（農家青年）【被西夏武士所殺】"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d31"},"collection":"Character","parent":"次要人物","child":"一品堂"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d32"},"collection":"Character","parent":"一品堂","child":"赫連鐵樹（統率西夏一品堂 征東大將軍）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d33"},"collection":"Character","parent":"一品堂","child":"努兒海（西夏一品堂）"}
+{"_id":{"$oid":"5e3acfb38105db21fec44d34"},"collection":"Character","parent":"一品堂","child":"「惡貫滿盈」段延慶：四大惡人排行老大。原是大理國延慶太子。因刀白鳳暗示而知道自己有段譽這兒子。"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d35"},"collection":"Character","parent":"一品堂","child":"「無惡不作」葉二娘：四大惡人排行老二。虛竹的生母，後隨玄慈大師死去。"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d36"},"collection":"Character","parent":"一品堂","child":"「凶神惡煞」岳老三：四大惡人排行老三，但欲當老二。人稱「南海鱷神」。因救段譽而為段延慶所殺。"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d37"},"collection":"Character","parent":"一品堂","child":"「窮凶極惡」雲中鶴：四大惡人排行老四。後被華赫艮趁其中悲酥清風昏迷之時一刀砍死。"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d38"},"collection":"Character","parent":"次要人物","child":"女真族"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d39"},"collection":"Character","parent":"女真族","child":"王通治（儒醫生）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d3a"},"collection":"Character","parent":"女真族","child":"完顏阿骨打（女真族長次子）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d3b"},"collection":"Character","parent":"女真族","child":"斯达林 (女真族副族長）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d3c"},"collection":"Character","parent":"女真族","child":"和哩布（女真族長）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d3d"},"collection":"Character","parent":"女真族","child":"許卓誠（商人兼通譯）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d3e"},"collection":"Character","parent":"次要人物","child":"其他"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d3f"},"collection":"Character","parent":"其他","child":"神山上人（五台山清涼寺方丈與玄慈並稱『降龍』『伏虎』兩羅漢）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d40"},"collection":"Character","parent":"其他","child":"觀心大師（開封府大相國寺）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d41"},"collection":"Character","parent":"其他","child":"道清大師（江南普渡寺）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d42"},"collection":"Character","parent":"其他","child":"覺賢大師（廬山東林寺）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d43"},"collection":"Character","parent":"其他","child":"思良大师 (布山不寺)"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d44"},"collection":"Character","parent":"其他","child":"融智大師（長安淨影寺）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d45"},"collection":"Character","parent":"其他","child":"志远大师（四台山炎热寺）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d46"},"collection":"Character","parent":"其他","child":"鸿杰大师（紫云山大雨寺）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d47"},"collection":"Character","parent":"其他","child":"神音大師（五台山清涼寺）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d48"},"collection":"Character","parent":"其他","child":"哲羅星（天竺僧人）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d49"},"collection":"Character","parent":"其他","child":"波羅星（天竺僧人，哲羅星的師弟，偷學《大金剛拳經》《般若掌法》《摩訶指訣》）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d4a"},"collection":"Character","parent":"其他","child":"諸葛中（河北『神彈子』）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d4b"},"collection":"Character","parent":"其他","child":"宗贊（吐蕃國王子）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d4c"},"collection":"Character","parent":"其他","child":"太皇太后高氏"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d4d"},"collection":"Character","parent":"其他","child":"趙煦（宋哲宗）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d4e"},"collection":"Character","parent":"其他","child":"范祖禹（宋朝翰林學士）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d4f"},"collection":"Character","parent":"其他","child":"蘇轍（宋朝宰相）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d50"},"collection":"Character","parent":"其他","child":"范純仁（宋朝大臣）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d51"},"collection":"Character","parent":"其他","child":"穆貴妃（耶律洪基最寵幸的貴妃）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d52"},"collection":"Character","parent":"其他","child":"張將軍（雁門關指揮使）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d53"},"collection":"Character","parent":"其他","child":"馬五德（滇南普洱老武師，帶段譽上無量山的人）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d54"},"collection":"Character","parent":"其他","child":"梁阿婆（替秦紅棉買雜貨者）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d55"},"collection":"Character","parent":"其他","child":"五葉大師（身戒寺方丈）"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d56"},"collection":"Character","parent":"其他","child":"駱氏三雄【被慕容博所殺】"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d57"},"collection":"Character","parent":"其他","child":"章虛道人【被慕容博所殺】"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d58"},"collection":"Character","parent":"其他","child":"蔡慶圖（土豪）【被崔百泉所殺】"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d59"},"collection":"Character","parent":"其他","child":"天摩尼：大輪明王鳩摩智之師弟，因盜取少林寺武功祕笈，被囚禁於少林寺。"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d5a"},"collection":"Character","parent":"其他","child":"\n"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d5b"},"collection":"Character","parent":"其他","child":"金庸  天龍八部(小說)\n"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d5c"},"collection":"Character","parent":"其他","child":"天龍八部 (小說)"}
+{"_id":{"$oid":"5e3acfb48105db21fec44d5d"},"collection":"Character","parent":"其他","child":""}
+{"_id":{"$oid":"5e3acfb48105db21fec44d5e"},"collection":"Character","parent":"其他","child":"查论编金庸武侠小说《天龍八部》故事角色主要人物喬峰 · 虛竹 · 段譽 · 阿朱 · 阿紫 · 王語嫣 · 木婉清 · 鍾靈其他人物角色列表幫派丐幫  ·  少林派  ·  逍遙派 · 星宿派電影改編天龍八部 (1977)  ·  新天龍八部 (1982)  ·  新天龍八部之天山童姥 (1994)電視劇改編天龍八部 (1982)  · 天龍八部 (1990)  ·  天龍八部 (1997)  ·  天龍八部 (2003) ·  天龍八部 (2013) ·  天龍八部 (2019)遊戲改編天龍八部 (2002)  · 天龍八部 (2007)相關天龍八部影視城 · 射鵰三部曲 （射鵰英雄傳 · 神鵰俠侶 · 倚天屠龍記）"}

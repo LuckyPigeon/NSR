@@ -1,0 +1,10 @@
+CREATE TABLE CRel (
+    ParentID INT NOT NULL,
+    ChildID INT NOT NULL,
+    PRIMARY KEY(ParentID, ChildID)
+)
+
+CREATE TABLE CLASS (
+    id INT NOT NULL PRIMARY KEY,
+    name NVARCHAR(64)
+)

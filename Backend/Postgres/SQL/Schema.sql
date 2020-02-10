@@ -46,7 +46,7 @@ CREATE TABLE Class (
 	lastbook VARCHAR(64),
 	nextbook VARCHAR(64),
 	url VARCHAR(512),
-	description VARCHAR(MAX),
+	description VARCHAR,
 	isActive BOOLEAN,
 	isDel BOOLEAN,
 	level BIT(8) NOT NULL

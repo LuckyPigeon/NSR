@@ -22,7 +22,7 @@
     
 */
 
-CREATE TABLE CRel (
+CREATE OR ALTER TABLE CRel (
     ParentID INT NOT NULL,
     ChildID INT NOT NULL,
 	Rank INT NOT NULL,
@@ -48,9 +48,9 @@ CREATE TABLE Class (
 	nextbook VARCHAR(64),
 	url VARCHAR(512),
 	description VARCHAR,
-    since DATE NOT NULL DEFAULT NOW,
-    limitDate DATE NOT NULL DEFAULT NOW,
-    delDate DATE NOT NULL DEFAULT NOW,
+    since DATE NOT NULL DEFAULT NOW(),
+    limitDate DATE NOT NULL DEFAULT NOW(),
+    delDate DATE NOT NULL DEFAULT NOW(),
 	isActive BOOLEAN,
 	isDel BOOLEAN,
 	level BIT(8) NOT NULL

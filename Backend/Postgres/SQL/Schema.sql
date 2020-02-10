@@ -53,11 +53,12 @@ CREATE TABLE Class (
 )
 
 CREATE TABLE Information (
-	id INT NOT NULL PRIMARY KEY FOREIGN KEY (id) REFERENCES Class(id),
-	background VARCHAR(MAX),
+	id INT NOT NULL,
+	background VARCHAR,
 	v_name VARCHAR(64), -- version name
 	v_date DATE, -- version date
-	v_des VARCHAR(MAX), -- version description
-	evalutate VARCHAR(MAX)
+	v_des VARCHAR, -- version description
+	evalutate VARCHAR,
+	PRIMARY KEY (id),
+	FOREIGN KEY (id) REFERENCES Class(id)
 )
-

@@ -48,6 +48,9 @@ CREATE TABLE Class (
 	nextbook VARCHAR(64),
 	url VARCHAR(512),
 	description VARCHAR,
+    since DATE NOT NULL DEFAULT NOW,
+    limitDate DATE NOT NULL DEFAULT NOW,
+    delDate DATE NOT NULL DEFAULT NOW,
 	isActive BOOLEAN,
 	isDel BOOLEAN,
 	level BIT(8) NOT NULL

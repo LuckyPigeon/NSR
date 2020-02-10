@@ -70,16 +70,35 @@ CREATE TABLE Information (
 CREATE TABLE Object (
     id INT NOT NULL,
     name VARCHAR(256),
+    description VARCHAR,
     url VARCHAR(512),
+    since DATE NOT NULL DEFAULT NOW(),
+    lastModified DATE NOT NULL DEFAULT NOW(),
+    PRIMARY KEY (id),
+    FOREIGN KEY (id) REFERENCES Object(id)
 )
 
 CREATE TABLE Chapter (
     id INT NOT NULL,
     name VARCHAR(256),
+    description VARCHAR,
     url VARCHAR(512),
     status BIT(8),
-    since DATE NOT NULL DEFAULT NOW,
-    lastModified DATE NOT NULL DEFAULT NOW,
+    since DATE NOT NULL DEFAULT NOW(),
+    lastModified DATE NOT NULL DEFAULT NOW(),
+    PRIMARY KEY (id),
+    FOREIGN KEY (id) REFERENCES Object(id)
+)
+
+CREATE TABLE Works (
+    id INT NOT NULL,
+    name VARCHAR(256),
+    description VARCHAR,
+    url VARCHAR(512),
+    type BIT(4),
+    status BIT(8),
+    since DATE NOT NULL DEFAULT NOW(),
+    lastModified DATE NOT NULL DEFAULT NOW(),
     PRIMARY KEY (id),
     FOREIGN KEY (id) REFERENCES Object(id)
 )

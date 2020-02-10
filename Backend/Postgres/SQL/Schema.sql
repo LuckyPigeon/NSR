@@ -2,13 +2,14 @@
   資料表:
 	Class: 紀錄目錄架構的成員，在此為由首頁、小說種類、作者、小說名稱等四種類型成員組成的資料表
 	Information: Class 的擴充欄位（繼承），紀錄小說的書籍基本資訊
-	Object: 紀錄小說的章回名稱
+	Object: 紀錄與小說關聯的物件資訊，包含 Chapter & Works
+    Chapter: 繼承自 Object，紀錄小說的章回名稱
 	Paragraph: 紀錄小說的段落內容
 	Sentence: 紀錄小說的句子內容
 	Segment: 紀錄小說的句子片段內容
 	Token: 紀錄小說所有詞彙
 	Keyword: 繼承自Token，紀錄小說所有有特殊意義之詞彙
-	Works: 紀錄由小說發展出的改編作品、電玩遊戲以及周邊商品
+	Works: 繼承自 Object，紀錄由小說發展出的改編作品、電玩遊戲以及周邊商品
   關聯資料表:
     CRel: 紀錄 Class 成員之間的父子關係（目錄關係）
 	CO: 紀錄小說與其章回名稱的關聯
@@ -61,4 +62,21 @@ CREATE TABLE Information (
 	evalutate VARCHAR,
 	PRIMARY KEY (id),
 	FOREIGN KEY (id) REFERENCES Class(id)
+)
+
+CREATE TABLE Object (
+    id INT NOT NULL,
+    name VARCHAR(256),
+    url VARCHAR(512),
+)
+
+CREATE TABLE Chapter (
+    id INT NOT NULL,
+    name VARCHAR(256),
+    url VARCHAR(512),
+    status BIT(8),
+    since DATE NOT NULL DEFAULT NOW,
+    lastModified DATE NOT NULL DEFAULT NOW,
+    PRIMARY KEY (id),
+    FOREIGN KEY (id) REFERENCES Object(id)
 )

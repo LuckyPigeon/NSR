@@ -102,3 +102,19 @@ CREATE TABLE Works (
     PRIMARY KEY (id),
     FOREIGN KEY (id) REFERENCES Object(id)
 )
+
+CREATE TABLE Paragraph (
+    id INT NOT NULL,
+    text VARCHAR NOT NULL,
+    md5 BYTEA NOT NULL UNIQUE,
+    total INT NOT NULL DEFAULT 0,
+    PRIMARY KEY (id),
+)
+
+CREATE TABLE Sentence (
+    id INT NOT NULL,
+    text VARCHAR NOT NULL,
+    md5 BYTEA NOT NULL UNIQUE,
+    total INT NOT NULL DEFAULT 0,
+    PRIMARY KEY (id)
+)

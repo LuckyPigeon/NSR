@@ -9,6 +9,7 @@
 	Segment: 紀錄小說的句子片段內容
 	Token: 紀錄小說所有詞彙
 	Keyword: 繼承自Token，紀錄小說所有有特殊意義之詞彙
+    Patternword: 紀錄有意義且會重複出現的詞，如，姓氏
 	Works: 繼承自 Object，紀錄由小說發展出的改編作品、電玩遊戲以及周邊商品
   關聯資料表:
     CRel: 紀錄 Class 成員之間的父子關係（目錄關係）

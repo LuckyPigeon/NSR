@@ -31,7 +31,7 @@ CREATE OR ALTER TABLE CRel (
 )
 
 CREATE TABLE Class (
-    id INT NOT NULL PRIMARY KEY,
+    id SERIAL NOT NULL PRIMARY KEY,
 	idpath VARCHAR(32),
     name VARCHAR(64) NOT NULL,
 	namepath VARCHAR(256),
@@ -58,7 +58,7 @@ CREATE TABLE Class (
 )
 
 CREATE TABLE Information (
-	id INT NOT NULL,
+	id SERIAL NOT NULL,
 	background VARCHAR,
 	v_name VARCHAR(64), -- version name
 	v_date DATE, -- version date

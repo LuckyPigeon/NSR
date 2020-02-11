@@ -105,7 +105,7 @@ CREATE TABLE Works (
 )
 
 CREATE TABLE Paragraph (
-    id INT NOT NULL,
+    id SERIAL NOT NULL,
     text VARCHAR NOT NULL,
     md5 BYTEA NOT NULL UNIQUE,
     total INT NOT NULL DEFAULT 0,
@@ -113,7 +113,7 @@ CREATE TABLE Paragraph (
 )
 
 CREATE TABLE Sentence (
-    id INT NOT NULL,
+    id SERIAL NOT NULL,
     text VARCHAR NOT NULL,
     md5 BYTEA NOT NULL UNIQUE,
     total INT NOT NULL DEFAULT 0,

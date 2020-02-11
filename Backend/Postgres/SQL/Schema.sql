@@ -121,14 +121,14 @@ CREATE TABLE Sentence (
 )
 
 CREATE TABLE Segment (
-    id INT SERIAL NOT NULL,
+    id SERIAL NOT NULL,
     text VARCHAR(256) NOT NULL,
     total INT NOT NULL DEFAULT 0,
     PRIMARY KEY (id)
 )
 
 CREATE TABLE Token (
-    id INT SERIAL NOT NULL,
+    id SERIAL NOT NULL,
     text VARCHAR(64) NOT NULL,
     total INT NOT NULL DEFAULT 0,
     pos VARCHAR(4) NOT NULL,

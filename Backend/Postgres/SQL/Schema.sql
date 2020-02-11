@@ -119,3 +119,33 @@ CREATE TABLE Sentence (
     total INT NOT NULL DEFAULT 0,
     PRIMARY KEY (id)
 )
+
+CREATE TABLE Segment (
+    id INT SERIAL NOT NULL,
+    text VARCHAR(256) NOT NULL,
+    total INT NOT NULL DEFAULT 0,
+    PRIMARY KEY (id)
+)
+
+CREATE TABLE Token (
+    id INT SERIAL NOT NULL,
+    text VARCHAR(64) NOT NULL,
+    total INT NOT NULL DEFAULT 0,
+    pos VARCHAR(4) NOT NULL,
+    alias INT NULL,
+    PRIMARY KEY (id),
+    FOREIGN KEY (alias) REFERENCES Token(id)
+)
+
+CREATE TABLE Keyword (
+    id INT NOT NULL,
+    text VARCHAR(32) NOT NULL,
+    total INT NOT NULL DEFAULT 0,
+    pos VARCHAR(4) NOT NULL,
+    type BIT(8),
+    alias INT NULL,
+    weight double precision,
+    PRIMARY KEY (id),
+    FOREIGN KEY (alias) REFERENCES Token(id),
+    FOREIGN KEY (id) REFERENCES Token(id)
+)

@@ -69,7 +69,7 @@ CREATE TABLE Information (
 )
 
 CREATE TABLE Object (
-    id INT NOT NULL,
+    id SERIAL NOT NULL,
     name VARCHAR(256),
     description VARCHAR,
     url VARCHAR(512),
@@ -80,7 +80,7 @@ CREATE TABLE Object (
 )
 
 CREATE TABLE Chapter (
-    id INT NOT NULL,
+    id SERIAL NOT NULL,
     name VARCHAR(256),
     description VARCHAR,
     url VARCHAR(512),
@@ -92,7 +92,7 @@ CREATE TABLE Chapter (
 )
 
 CREATE TABLE Works (
-    id INT NOT NULL,
+    id SERIAL NOT NULL,
     name VARCHAR(256),
     description VARCHAR,
     url VARCHAR(512),

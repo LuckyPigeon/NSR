@@ -149,7 +149,9 @@ CREATE TABLE Patternword (
     id SERIAL NOT NULL,
     text VARCHAR(32) NOT NULL UNIQUE,
     type BIT(8),
-    PRIMARY KEY (id)
+    categoryid INT NULL,
+    PRIMARY KEY (id),
+    FOREIGN KEY (categoryid) REFERENCES Class(id)
 )
 --- 資料表 END ---
 

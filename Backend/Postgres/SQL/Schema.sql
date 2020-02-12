@@ -13,6 +13,7 @@
 	Works: 繼承自 Object，紀錄由小說發展出的改編作品、電玩遊戲以及周邊商品
   關聯資料表:
     CRel: 紀錄 Class 成員之間的父子關係（目錄關係）
+    ORel: 紀錄 Object 成員之間的關係
 	CO: 紀錄小說與其章回名稱的關聯
 	OP: 紀錄小說章回名稱與段落內容的關聯
 	PS: 紀錄小說段落內容與句子內容的關聯
@@ -23,13 +24,7 @@
     
 */
 
-CREATE OR ALTER TABLE CRel (
-    ParentID INT NOT NULL,
-    ChildID INT NOT NULL,
-	Rank INT NOT NULL,
-    PRIMARY KEY(ParentID, ChildID, Rank)
-)
-
+--- 資料表 START ---
 CREATE TABLE Class (
     id SERIAL NOT NULL PRIMARY KEY,
 	idpath VARCHAR(32),
@@ -149,3 +144,30 @@ CREATE TABLE Keyword (
     FOREIGN KEY (alias) REFERENCES Token(id),
     FOREIGN KEY (id) REFERENCES Token(id)
 )
+
+CREATE TABLE Patternword (
+    id SERIAL NOT NULL,
+    text VARCHAR(32) NOT NULL,
+    PRIMARY KEY (id)
+)
+--- 資料表 END ---
+
+--- 關聯資料表 START ---
+CREATE TABLE CRel ( -- 需重跑 --
+    ParentID INT NOT NULL,
+    ChildID INT NOT NULL,
+	Rank INT NOT NULL,
+    PRIMARY KEY (ParentID, ChildID, Rank),
+    FOREIGN KEY (ParentID) REFERENCES Class(id),
+    FOREIGN KEY (ChildID) REFERENCES Class(id)
+)
+
+CREATE TABLE ORel (
+    id1 INT NOT NULL,
+    id2 INT NOT NULL,
+    Rank INT NOT NULL,
+    PRIMARY KEY (id1, id2, Rank),
+    FOREIGN KEY (id1) REFERENCES Object(id),
+    FOREIGN KEY (id2) REFERENCES Object(id)
+)
+--- 關聯資料表 END ---

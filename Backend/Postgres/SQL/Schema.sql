@@ -171,4 +171,49 @@ CREATE TABLE ORel (
     FOREIGN KEY (id1) REFERENCES Object(id),
     FOREIGN KEY (id2) REFERENCES Object(id)
 )
+
+CREATE TABLE CO (
+    CID INT NOT NULL,
+    OID INT NOT NULL,
+    Rank INT NOT NULL,
+    PRIMARY KEY (CID, OID, Rank),
+    FOREIGN KEY (CID) REFERENCES Class(id),
+    FOREIGN KEY (OID) REFERENCES Object(id)
+)
+
+CREATE TABLE OP (
+    id1 INT NOT NULL,
+    id2 INT NOT NULL,
+    Rank INT NOT NULL,
+    PRIMARY KEY (id1, id2, Rank),
+    FOREIGN KEY (id1) REFERENCES Object(id),
+    FOREIGN KEY (id2) REFERENCES Paragraph(id)
+)
+
+CREATE TABLE PS (
+    id1 INT NOT NULL,
+    id2 INT NOT NULL,
+    Rank INT NOT NULL,
+    PRIMARY KEY (id1, id2, Rank),
+    FOREIGN KEY (id1) REFERENCES Paragraph(id),
+    FOREIGN KEY (id2) REFERENCES Sentence(id)
+)
+
+CREATE TABLE SS (
+    id1 INT NOT NULL,
+    id2 INT NOT NULL,
+    Rank INT NOT NULL,
+    PRIMARY KEY (id1, id2, Rank),
+    FOREIGN KEY (id1) REFERENCES Sentence(id),
+    FOREIGN KEY (id2) REFERENCES Segment(id)
+)
+
+CREATE TABLE ST (
+    id1 INT NOT NULL,
+    id2 INT NOT NULL,
+    Rank INT NOT NULL,
+    PRIMARY KEY (id1, id2, Rank),
+    FOREIGN KEY (id1) REFERENCES Segment(id),
+    FOREIGN KEY (id2) REFERENCES Token(id)
+)
 --- 關聯資料表 END ---

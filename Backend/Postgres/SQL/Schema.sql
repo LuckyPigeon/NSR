@@ -104,7 +104,7 @@ CREATE TABLE Paragraph (
     text VARCHAR NOT NULL,
     md5 BYTEA NOT NULL UNIQUE,
     total INT NOT NULL DEFAULT 0,
-    PRIMARY KEY (id),
+    PRIMARY KEY (id)
 )
 
 CREATE TABLE Sentence (
@@ -147,13 +147,14 @@ CREATE TABLE Keyword (
 
 CREATE TABLE Patternword (
     id SERIAL NOT NULL,
-    text VARCHAR(32) NOT NULL,
+    text VARCHAR(32) NOT NULL UNIQUE,
+    type BIT(8),
     PRIMARY KEY (id)
 )
 --- 資料表 END ---
 
 --- 關聯資料表 START ---
-CREATE TABLE CRel ( -- 需重跑 --
+CREATE TABLE CRel (
     ParentID INT NOT NULL,
     ChildID INT NOT NULL,
 	Rank INT NOT NULL,

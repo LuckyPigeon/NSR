@@ -74,7 +74,7 @@ CREATE TABLE Object (
 )
 
 CREATE TABLE Chapter (
-    id SERIAL NOT NULL,
+    id INT NOT NULL,
     name VARCHAR(256),
     description VARCHAR,
     url VARCHAR(512),
@@ -86,7 +86,7 @@ CREATE TABLE Chapter (
 )
 
 CREATE TABLE Works (
-    id SERIAL NOT NULL,
+    id INT NOT NULL,
     name VARCHAR(256),
     description VARCHAR,
     url VARCHAR(512),

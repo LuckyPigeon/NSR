@@ -52,7 +52,7 @@ CREATE TABLE Class (
 )
 
 CREATE TABLE Information (
-	id SERIAL NOT NULL,
+	id INT NOT NULL,
 	background VARCHAR,
 	v_name VARCHAR(64), -- version name
 	v_date DATE, -- version date

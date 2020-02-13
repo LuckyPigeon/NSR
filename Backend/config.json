@@ -1,0 +1,7 @@
+{
+    "user": "postgres",
+    "password": "5432",
+    "db": "NSRDB",
+    "host": "localhost",
+    "port": "5432"
+}
